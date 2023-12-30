@@ -6,3 +6,5 @@ bmbv
 hat
 
 hét
+nyolc
+kilenc
