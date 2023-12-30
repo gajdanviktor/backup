@@ -4,3 +4,5 @@ bmvm
 bmbv
 öt
 hat
+
+hét
