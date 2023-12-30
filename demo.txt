@@ -8,4 +8,7 @@ hat
 hét
 nyolc
 
+=======
+kilenc
+tíz
 
